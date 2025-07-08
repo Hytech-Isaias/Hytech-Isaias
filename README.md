@@ -1,5 +1,6 @@
-## Hi there 👋
-
+![Isaias's GitHub stats](https://github-readme-stats.vercel.app/api?username=hytech-isaias&show_icons=true&bg_color=00000000)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hytech-isaias&hide_progress=true)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IsaX01)](https://github.com/hytech-isaias/github-readme-stats)
 <!--
 **Hytech-Isaias/Hytech-Isaias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
