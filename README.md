@@ -1,5 +1,7 @@
-![Isaias's GitHub stats](https://github-readme-stats.vercel.app/api?username=hytech-isaias&show_icons=true&bg_color=00000000)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hytech-isaias&hide_progress=true)
+![hytech-isaias's Stats](https://github-readme-stats.vercel.app/api?username=hytech-isaias&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![hytech-isaias's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hytech-isaias&theme=midnight-purple&hide_border=true)
+![hytech-isaias's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hytech-isaias&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
+
 [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IsaX01)](https://github.com/hytech-isaias/github-readme-stats)
 <!--
 **Hytech-Isaias/Hytech-Isaias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
