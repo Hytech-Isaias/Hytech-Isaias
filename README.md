@@ -3,7 +3,7 @@
 ---
 ![hytech-isaias's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hytech-isaias&theme=midnight-purple&hide_border=true)
 ---
-![hytech-isaias's Top Contributions](https://github-contributor-stats.vercel.app/api?username=hytech-isaias&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true)
+![hytech-isaias's Top Contributions](https://github-contributor-stats.vercel.app/api?username=hytech-isaias&limit=5&theme=midnight-purple&combine_all_yearly_contributions=true&hide_contributor_rank=false)
 ---
 [![hytech-isaias's  WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=IsaX01)](https://github.com/hytech-isaias/github-readme-stats)
 
