@@ -1,5 +1,5 @@
-![hytech-isaias's Stats](https://github-readme-stats.vercel.app/api?username=hytech-isaias&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true)
-![hytech-isaias's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hytech-isaias&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
+![hytech-isaias's Stats](https://github-readme-stats.vercel.app/api?username=hytech-isaias&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true)
+![hytech-isaias's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hytech-isaias&theme=midnight-purple&show_icons=true&hide_border=true&layout=compact)
 
 ---
 ![hytech-isaias's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hytech-isaias&theme=midnight-purple&hide_border=true)
